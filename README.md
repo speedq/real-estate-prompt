@@ -25,4 +25,4 @@
 - 禁止以任何形式用于违法行为。
 
 ## 📬 联系方式
-如果您对本项目有任何建议或发现问题，请提交 [GitHub Issue](https://github.com/kong2wa/real-estate-prompt/issues)。
+如果您对本项目有任何建议或发现问题，请提交 [GitHub Issue](https://github.com/speedq/real-estate-prompt/issues)。
